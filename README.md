@@ -22,6 +22,8 @@ In business intelligence, it is often useful to create groups of customers or co
 
 In this project, we applied the k means clustering algorithm to a 2000 instance unlabeled dataset, creating 4 distinct customer segments based on 7 faetures gathered. The k means algorithm has become a popular choice for creating clustering models because of its intuitive and simple approach at solving the problem. Upon creating these segments, we went ahead to create an interactive dashboard to analyse how each customer segment is different from the rest based on the features gathered. An example would be how the average income of one customer segment is different from the next and vice versa. PowerBI's interactive features through the addition of slcers created an easy avenue to carry out this task.
 
+<img src="C:\Users\JESSICA\Downloads\custdash.jpg" alt="Alt text" title="Customer Segmentation dashboard">
+
 # Data Gathering 
 Data was gathered from kaggle's amazing repository of datasets available for use.
 
