@@ -3,7 +3,7 @@ This project is a customer segmentation analysis of customers of an FCMG store. 
 
 
 
-(![Alt text](img.png))
+![Alt text](img.png)
 
 # Table Of Contents
 * [Installation](https://github.com/Jess607/Customer-segmentation-Analysis#installation)
