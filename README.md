@@ -1,6 +1,10 @@
 # Customer-segmentation-Analysis
 This project is a customer segmentation analysis of customers of an FCMG store. The goal of the project is to create clusters or groups of these customers to foster marketing decisions and for better undertsanding of customer characteristics which could ultimately impact sales and profit generation.
 
+
+
+(![Alt text](img.png))
+
 # Table Of Contents
 * [Installation](https://github.com/Jess607/Customer-segmentation-Analysis#installation)
 * [About the Project](https://github.com/Jess607/Customer-segmentation-Analysis#about-the-project)
