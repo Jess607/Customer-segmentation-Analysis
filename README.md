@@ -1,5 +1,5 @@
 # Customer-segmentation-Analysis
-This project is a customer segmentation analysis of customers of an FCMG store. The goal of the project is to create clusters or groups of these customers to foster marketing decisions and for better undertsanding of customer characteristics which could ultimately impact sales and profit generation.
+This project is a customer segmentation analysis of customers of an FMCG store. The goal of the project is to create clusters or groups of these customers to foster marketing decisions and for better undertsanding of customer characteristics which could ultimately impact sales and profit generation.
 
 
 
